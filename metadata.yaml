@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2037
     wikipedia: http://en.wikipedia.org/wiki/Ernst_Haeckel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44541#The-Last-LinkOur-Present-Knowledge-of-the-Descent-of-Man
 gutenberg_issued: '2013-12-29'
 gutenberg_type: Text
 identifiers:
